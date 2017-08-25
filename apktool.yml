@@ -1,0 +1,27 @@
+!!brut.androlib.meta.MetaInfo
+apkFileName: com.droidhang.ad-11.apk
+compressionType: false
+doNotCompress:
+- arsc
+- lua
+- zip
+- plist
+- json
+- fnt
+isFrameworkApk: false
+packageInfo:
+  forcedPackageId: '127'
+  renameManifestPackage: com.droidhang.cd
+sdkInfo:
+  minSdkVersion: '9'
+  targetSdkVersion: '24'
+sharedLibrary: false
+unknownFiles: {}
+usesFramework:
+  ids:
+  - 1
+  tag: null
+version: 2.2.3
+versionInfo:
+  versionCode: '142'
+  versionName: 1.11.0

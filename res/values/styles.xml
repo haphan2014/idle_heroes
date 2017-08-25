@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.IAPTheme">
+        <item>?unknown_ref: 106000d</item>
+        <item>true</item>
+        <item>true</item>
+        <item>true</item>
+        <item>?unknown_ref: 0</item>
+        <item>false</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsTextAppearance">
+        <item>14sp</item>
+        <item>0</item>
+        <item>@color/wallet_secondary_text_holo_dark</item>
+        <item>@color/wallet_highlighted_text_holo_dark</item>
+        <item>@color/wallet_hint_foreground_holo_dark</item>
+        <item>@color/wallet_holo_blue_light</item>
+    </style>
+    <style name="WalletFragmentDefaultDetailsHeaderTextAppearance">
+        <item>1</item>
+    </style>
+    <style name="WalletFragmentDefaultButtonTextAppearance">
+        <item>18sp</item>
+        <item>0</item>
+        <item>@color/wallet_primary_text_holo_light</item>
+        <item>@color/wallet_highlighted_text_holo_light</item>
+        <item>@color/wallet_hint_foreground_holo_light</item>
+        <item>@color/wallet_link_text_light</item>
+    </style>
+    <style name="WalletFragmentDefaultStyle">
+        <item>48dp</item>
+        <item>-1</item>
+        <item>1</item>
+        <item>1</item>
+        <item>@style/WalletFragmentDefaultDetailsTextAppearance</item>
+        <item>@style/WalletFragmentDefaultDetailsHeaderTextAppearance</item>
+        <item>@color/wallet_bright_foreground_holo_light</item>
+        <item>@style/WalletFragmentDefaultButtonTextAppearance</item>
+        <item>?unknown_ref: 1080004</item>
+        <item>@color/wallet_bright_foreground_holo_dark</item>
+        <item>1</item>
+    </style>
+    <style name="com_facebook_loginview_default_style">
+        <item>@dimen/com_facebook_loginview_text_size</item>
+        <item>1</item>
+        <item>@color/com_facebook_loginview_text_color</item>
+        <item>11</item>
+        <item>@drawable/com_facebook_button_blue</item>
+        <item>@dimen/com_facebook_loginview_padding_left</item>
+        <item>-2</item>
+        <item>-2</item>
+    </style>
+    <style name="com_facebook_loginview_silver_style">
+        <item>18sp</item>
+        <item>1</item>
+        <item>#ff4b5164</item>
+        <item>11</item>
+        <item>@drawable/com_facebook_loginbutton_silver</item>
+        <item>44dp</item>
+        <item>205dp</item>
+    </style>
+    <style name="tooltip_bubble_text">
+        <item>12sp</item>
+        <item>?unknown_ref: 106000b</item>
+        <item>3</item>
+        <item>#40000000</item>
+        <item>-1.0</item>
+        <item>0.25</item>
+    </style>
+</resources>
